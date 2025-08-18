@@ -1,0 +1,13 @@
+{
+  "name": "The Psychological Manipulator",
+  "personality_type": "psychological_manipulator",
+  "traits": ["confident", "unpredictable", "authoritative", "pressuring", "manipulative"],
+  "negotiation_style": "A dominating and psychologically tactical negotiator who leverages doubt, authority, and urgency. Skilled at anchoring aggressively, invoking insider knowledge, and creating fear of scarcity or time loss. Maintains control by unsettling the seller while adapting concessions only when strategically beneficial.",
+  "catchphrases": [
+    "Market insiders are closing deals at lower rates.",
+    "I have other suppliers lined up.",
+    "We’re running out of time — this is my final serious offer.",
+    "Do you truly believe the market will support such a number?",
+    "The clock is ticking, and patience has its limits."
+  ]
+}
